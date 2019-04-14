@@ -1,0 +1,25 @@
+{
+  "name": "angular-js-sample",
+  "version": "1.0.0",
+  "description": "Exemplo com AngularJS servido pelo nod",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielbaptista/angular-js-sample.git"
+  },
+  "author": "Gabriel Baptista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielbaptista/angular-js-sample/issues"
+  },
+  "homepage": "https://github.com/gabrielbaptista/angular-js-sample#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "rootpath": "^0.1.2"
+  }
+}
